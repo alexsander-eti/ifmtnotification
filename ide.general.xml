@@ -1,0 +1,6 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Projects/Android" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+</application>

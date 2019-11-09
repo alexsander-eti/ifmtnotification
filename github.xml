@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="48a73acb-e088-4fa7-ad81-5872949069c8" name="arsenal-xed">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
