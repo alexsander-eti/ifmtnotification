@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173734826830",
+    "firebase_url": "https://ifmt-notification-5734d.firebaseio.com",
+    "project_id": "ifmt-notification-5734d",
+    "storage_bucket": "ifmt-notification-5734d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173734826830:android:1b392946cf8f6c0522441f",
+        "android_client_info": {
+          "package_name": "br.eti.alexsander.ifmtnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173734826830-bdppbou1jelf6dph4l3mrhb6qafirq74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.eti.alexsander.ifmtnotification",
+            "certificate_hash": "ff2f27f3d49fb58a50ca67ba64edad04a2fd2c16"
+          }
+        },
+        {
+          "client_id": "173734826830-hnbfaq5dppleteoklkm48a5gjn2j9rc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EjrdGxu1LOptpSmSfeEmQvimMoz3aIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173734826830-hnbfaq5dppleteoklkm48a5gjn2j9rc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

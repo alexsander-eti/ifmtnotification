@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IFMT Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Últimas Notificações</string>
+
+    <!-- Configuração dos canais de notificação -->
+    <string name="channel1">Atletismo</string>
+    <string name="channel2">Basquete</string>
+    <string name="channel3">Futebol</string>
+    <string name="channel4">Futsal</string>
+    <string name="channel5">Handball</string>
+    <string name="channel6">Judo</string>
+    <string name="channel7">Natação</string>
+    <string name="channel8">Tenis de Mesa</string>
+    <string name="channel9">Volei</string>
+    <string name="channel10">Volei de Praia</string>
+    <string name="channel11">Xadrez</string>
+</resources>
