@@ -2,7 +2,7 @@
 Sistema de notificações enviadas via FCM (Firebase Cloud Message).<br>
 Desenvolvido utilizando a linguagem java e a IDE Android Studio.
 
-Projeto idealizado para criação de artigo de conclusão de curso.<br>
+Projeto idealizado para elaboração de artigo de conclusão de curso.<br>
 Aluno: Alexsander Chaves da Silva<br>
 Orientador: Raphael Aparecido de Melo Barboza<br>
 Curso: Tecnologia em Análise e Desenvolvimento de Sistema<br>
